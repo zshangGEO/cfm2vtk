@@ -1,1 +1,1 @@
-python cfm2vtk.py filename.ts
+python cfm2vtk_new.py filename.ts
